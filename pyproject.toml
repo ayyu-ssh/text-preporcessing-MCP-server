@@ -1,0 +1,16 @@
+[project]
+name = "pandas-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.57.1",
+    "fastmcp>=2.8.1",
+    "mcp-server>=0.1.4",
+    "mcp[cli,fastmcp]>=1.9.4",
+    "nltk>=3.9.1",
+    "pandas>=2.3.0",
+    "python-dotenv>=1.1.0",
+    "scikit-learn>=1.7.0",
+]
