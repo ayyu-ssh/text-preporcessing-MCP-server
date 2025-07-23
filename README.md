@@ -43,9 +43,6 @@ uv pip install -e .
 git clone https://github.com/ayyu-ssh/text-preprocessing-MCP-server.git
 cd text-preprocessing-MCP-server
 
-# Create project with uv (if starting from scratch)
-# uv init pandas-mcp
-
 # Sync dependencies (creates venv automatically)
 uv sync
 
