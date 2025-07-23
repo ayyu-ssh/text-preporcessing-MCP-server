@@ -106,7 +106,7 @@ Above configuration can also be used as configuration to Claude Desktop.
 text-preprocessing-mcp/
 ├── server.py             # Main MCP server implementation with tools
 ├── functions.py          # Preprocessing functions source code
-├── client.py.            # Implementation of custom client
+├── client.py             # Implementation of custom client
 ├── requirements.txt      # Python dependencies
 ├── pyproject.toml        # Configutation file
 └── README.md             # This file
