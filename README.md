@@ -72,7 +72,7 @@ This package automatically installs the following dependencies:
 # Run the MCP server directly
 uv run server.py
 ```
-The server will start and expose the three main tools to connected LLMs.
+The server will start and expose the main tools to connected LLMs.
 
 ### Using the CLI
 #### Interactive Mode
