@@ -40,8 +40,8 @@ uv pip install -e .
 ### Development Setup with uv
 ```bash
 # Clone and set up for development
-git clone https://github.com/yourusername/pandas-mcp.git
-cd pandas-mcp
+git clone https://github.com/ayyu-ssh/text-preprocessing-MCP-server.git
+cd text-preprocessing-MCP-server
 
 # Create project with uv (if starting from scratch)
 # uv init pandas-mcp
